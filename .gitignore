@@ -1,0 +1,18 @@
+# Oryginalne (niezoptymalizowane) materiały w katalogu głównym — na stronie używane są wersje z assets/
+/*.png
+/*.jpg
+/*.jpeg
+/*.webp
+/*.svg
+/*.mp4
+
+# Instalatory i pliki systemowe
+*.exe
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Narzędzia lokalne
+node_modules/
+.vscode/
+.wrangler/
